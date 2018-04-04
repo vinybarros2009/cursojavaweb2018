@@ -1,0 +1,36 @@
+servidor software 
+glassifh 4.1
+tomee
+wildfly
+
+.war -> web
+.jar
+.ejb
+
+
+MOCK -> DADOS FAKE
+
+JSF -> FRAMEWORK
+
+PRIME FACES -> BIBLIOTECA DE FACELETS
+
+
+bean -> construtor padrao
+     -> get e set definido
+	 
+
+Anotacoes -> meta dados
+
+#{...} -> expression language
+
+Alt + Shift + O
+Ctrl + O
+
+Primeface -> biblioteca para o JSF
+
+sentry.io -> bliblioteca de controle de erros das aplicacoes/aplicativos
+
+
+http://localhost:4848/common/index.jsf
+
+New JDBC Connection Pool (Step 2 of 2)
